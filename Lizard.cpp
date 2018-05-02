@@ -4,8 +4,8 @@ Lizard in C++
 Lizard was created by Mattias Hamann, Matthias Krause and Willi Meier
 The C++ implementation code is created by John Fjeld
 */
-#include "stdafx.h"
-#include <string>	
+#include "stdafx.h"	//standard library in visual studio
+#include <string>	//strings
 using namespace std;
 
 int main() {
