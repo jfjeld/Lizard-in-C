@@ -6,7 +6,7 @@ https://eprint.iacr.org/2016/926.pdf
 
 ## How to use:
 1: Copy the Lizard class to your code from Lizard.cpp  
-2: Create an object of that class. example: ``Lizard Object`` at line 199  
+2: Create an object of that class. Example: ``Lizard Object`` at line 199  
 3: Call the ``getKeystream("IV", "Key", keystreamLength)`` function.  
 IV represented in 16 HEX, Key in 32 HEX and the desired keystream length you will produce.  
 
