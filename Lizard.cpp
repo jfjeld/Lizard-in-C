@@ -17,7 +17,7 @@ int main() {
 		string keyBinary;				// 120 bit
 		string B; const int bLength = 90;		// NFSR2[90]
 		string S; const int sLength = 31;		// NFSR1[31]
-		char z, NFSR1, NFSR2;
+		char z, NFSR1, NFSR2;				// Used for update bits
 
 		//*******************************FUNCTIONS********************************
 		void initialization(const char* IV, const char* K) {
